@@ -1,0 +1,36 @@
+body{
+    background-color: darkslategrey;
+    margin: 0%;
+}
+
+#topHead{
+background-color: white;
+height: 45%;
+width: 100%;
+
+
+
+
+}
+
+#headerText{
+    padding-top: 20px;
+    font-size: 60px;
+    font-family: Verdana;
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 0%;
+}
+
+#aplogo{
+padding-top: 0%;
+
+}
+
+.navbarImage{
+width: 60px;
+
+}
+.navbar-text{
+    padding-top: 2rem;
+}
