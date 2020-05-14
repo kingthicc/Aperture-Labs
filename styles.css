@@ -1,31 +1,8 @@
 body{
-    background-color: darkslategrey;
+    background-color: white;
     margin: 0%;
 }
 
-#topHead{
-background-color: white;
-height: 45%;
-width: 100%;
-
-
-
-
-}
-
-#headerText{
-    padding-top: 20px;
-    font-size: 60px;
-    font-family: Verdana;
-    font-style: italic;
-    font-weight: bold;
-    margin-bottom: 0%;
-}
-
-#aplogo{
-padding-top: 0%;
-
-}
 
 .navbarImage{
 width: 60px;
@@ -33,4 +10,26 @@ width: 60px;
 }
 .navbar-text{
     padding-top: 2rem;
+    color: black;
+}
+
+
+.header{
+    background-color: rgb(0, 0, 0);
+}
+
+.inheader{
+    text-align: center;
+    font-family: Osawld, sans-serif;
+    font-weight: bold;
+    font-size: 5rem;
+    color: #fff;
+    padding-bottom: 0px;
+}
+.headerimg{
+    text-align: center;
+    padding-top: 0px;
+}
+.text-dark{
+    font-weight: bold;
 }
